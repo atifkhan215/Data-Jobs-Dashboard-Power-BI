@@ -1,6 +1,8 @@
 # Project 1: Data Jobs Dashboard
 
-![Data Jobs Dashboard](../images/Project1_Dashboard_Overview.gif)
+[![Data Jobs Dashboard](../images/Project1_Dashboard_Overview.gif)](https://app.powerbi.com/view?r=eyJrIjoiZGM0ZWI2NjctZTY2NC00NGYyLWE4YzUtYWE4ZWJiZTg2NzZlIiwidCI6ImY4NDIyNTYzLTFhMTMtNGEzYy1iZjQ1LWZkOGIxZmZhNmY0ZSIsImMiOjl9)
+
+> 📊 **[View the interactive dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZGM0ZWI2NjctZTY2NC00NGYyLWE4YzUtYWE4ZWJiZTg2NzZlIiwidCI6ImY4NDIyNTYzLTFhMTMtNGEzYy1iZjQ1LWZkOGIxZmZhNmY0ZSIsImMiOjl9)**
 
 ## Introduction
 

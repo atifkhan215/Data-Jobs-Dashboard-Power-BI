@@ -17,7 +17,7 @@ The data is a real dataset of 2024 data job postings, including job titles, sala
 
 | # | Project | Description | File |
 |---|---------|-------------|------|
-| 1 | [Data Jobs Dashboard](Project_1_Data_Jobs_Dashboard/) | Two-page report: a market overview plus a drill-through page for each job title | [`Data_Jobs_Dashboard.pbix`](Project_1_Data_Jobs_Dashboard/Data_Jobs_Dashboard.pbix) |
+| 1 | [Data Jobs Dashboard](Project_1_Data_Jobs_Dashboard/) | Two-page report: a market overview plus a drill-through page for each job title · **[📊 Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGM0ZWI2NjctZTY2NC00NGYyLWE4YzUtYWE4ZWJiZTg2NzZlIiwidCI6ImY4NDIyNTYzLTFhMTMtNGEzYy1iZjQ1LWZkOGIxZmZhNmY0ZSIsImMiOjl9)** | [`Data_Jobs_Dashboard.pbix`](Project_1_Data_Jobs_Dashboard/Data_Jobs_Dashboard.pbix) |
 | 2 | [Data Jobs Dashboard 2.0](Project_2_Data_Jobs_Dashboard_2.0/) | Single-page redesign with a star-schema data model, DAX measures and skill analysis | [`Data_Jobs_Dashboard_2.0.pbix`](Project_2_Data_Jobs_Dashboard_2.0/Data_Jobs_Dashboard_2.0.pbix) |
 
 ## 🛠️ Skills Showcased
